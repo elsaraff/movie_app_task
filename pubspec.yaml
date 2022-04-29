@@ -1,0 +1,43 @@
+name: movie_gain
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.16.2 <3.0.0"
+
+dependencies:
+  responsive_framework: ^0.1.7
+  dio: ^4.0.6
+  bloc: ^8.0.3
+  flutter_bloc: ^8.0.1
+  carousel_slider: ^4.1.1
+  fluttertoast: ^8.0.9
+  flutter_native_splash: ^2.1.6
+
+
+  #fireBase
+  firebase_core: ^1.15.0
+  firebase_messaging: ^11.2.15
+  firebase_analytics: ^9.1.6
+  firebase_dynamic_links: ^4.2.1
+
+
+
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^1.0.4
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - assets/images/

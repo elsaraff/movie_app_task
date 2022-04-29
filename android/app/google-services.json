@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1013306964166",
+    "project_id": "movie-gain",
+    "storage_bucket": "movie-gain.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013306964166:android:fa1903f74a4243d1f97fc7",
+        "android_client_info": {
+          "package_name": "com.elsaraff.movie.gain.movie_gain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013306964166-vtvmi61s0u0hfgu0ln6pok7megkmk5dk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elsaraff.movie.gain.movie_gain",
+            "certificate_hash": "d62bc45536e1fcb4d6d3dfe1ec1db37768590b2e"
+          }
+        },
+        {
+          "client_id": "1013306964166-dku8e22h98dr1l8h6apt6ue1rfal6nev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZe5kiMqcuCZvH2F1DpyWw7rLrKBU_NFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013306964166-dku8e22h98dr1l8h6apt6ue1rfal6nev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
