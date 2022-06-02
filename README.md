@@ -1,6 +1,6 @@
-# movie_gain
+# Movie Gain
 
-## Getting Started
+## Display list of movies from API, Push Notification using Firebase Cloud notification Add Make deep-link to open the app.
 
 ![alt text](screenshots/1.jpg )
 
